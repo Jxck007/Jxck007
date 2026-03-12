@@ -19,11 +19,11 @@
 
 ## 🧑‍💻 About Me
 
-👋 Hi, I'm **Jegadeesh Nandakumar (Jack)** — a Final Year CSE student from Chennai who loves building backend systems that actually work in the real world.
+👋 Hi, I'm **Jegadeesh Nandakumar (Jack)** — a 2nd Year CSE student from Chennai who loves building backend systems that actually work in the real world.
 
 | | |
 |---|---|
-| 🎓 | B.E. Computer Science & Engineering — Final Year |
+| 🎓 | B.E. Computer Science & Engineering — 2nd Year |
 | 📍 | Chennai, Tamil Nadu, India |
 | 💼 | Backend Developer |
 | 🔭 | Currently building **UniQScan** — my BE capstone project |
@@ -51,7 +51,6 @@
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases**
