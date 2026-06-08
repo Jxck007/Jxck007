@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%2C%20I'm%20Jack%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%E2%80%A2%20Flask%20%E2%80%A2%20Databases%20%E2%80%A2%20DevOps&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%2C%20I'm%20Jack%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Flutter%20%E2%80%A2%20Supabase%20%E2%80%A2%20Firebase&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6AF7&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%90%8D;Flask+%2B+PostgreSQL+%2B+REST+APIs;Real+Products+for+Real+People;DevOps+%26+Cloud+Automation;Build+%E2%86%92+Ship+%E2%86%92+Repeat" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6AF7&center=true&vCenter=true&width=620&lines=Software+Developer+%F0%9F%90%8D;React+%2B+TypeScript+%2B+Supabase;Flutter+%26+Firebase+Mobile+Apps;Real+Products+for+Real+People;Build+%E2%86%92+Ship+%E2%86%92+Repeat" alt="Typing SVG"/>
 
 <br/>
 
@@ -25,7 +25,7 @@
 |---|---|
 | 🎓 | B.E. Computer Science & Engineering — 3rd Year, RIT Chennai |
 | 📍 | Chennai, Tamil Nadu, India |
-| 💼 | Backend Developer · Full-Stack when needed |
+| 💼 | Software Developer · React · Flutter · TypeScript |
 | 🔭 | Currently building **UniQScan** — paperless OD workflow system |
 | 🌱 | Learning Docker, AWS & CI/CD pipelines |
 | ⚡ | Grinding LeetCode daily 💪 |
@@ -41,60 +41,64 @@
 ---
 
 ### 🌐 ZYPHORIA'26 — Official Symposium Website
-> The live production website for RIT's annual tech symposium. Handled real event registrations with Firebase and automated data collection via Google Sheets.
+> The official website for RIT's annual tech symposium — built for real production use. Handled live event registrations, symposium info, and team/event data backed by Supabase.
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://zyphoria.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Josewa-Aghai/ZYPHORIA)
 
-**Real-world impact:** Live symposium website · Firebase auth & registration · Google Sheets automation for event ops
+**Real-world impact:** Official symposium website used in production · Supabase-backed registration system · Collaborative project
 
 ---
 
 ### 🧾 BillEase — Bilingual Billing Platform
-> Built for my father's business. Tamil + English billing support, customer records, invoice generation — an actual replacement for manual bookkeeping.
+> Built for a real business workflow. Tamil + English billing support, customer records, and invoice management — replacing manual bookkeeping for an active business.
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://bill-ease-gamma.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Jxck007/BillEase)
 
-**Real-world impact:** Deployed in a live business environment · Bilingual Tamil/English UI · Replaced manual billing
+**Real-world impact:** Deployed for an active business · Bilingual Tamil/English UI · Replaces manual billing process
 
 ---
 
-### 🎮 Mystery Box — Real-Time Event Platform
-> Built to run live competitions at college events. Supports team management, live leaderboards, scoring, and admin controls — all in real time.
+### 🎮 Mystery Box — Real-Time Event & Game Platform
+> Built to run live competitions at college events. Supports team management, real-time leaderboards, scoring, admin controls, and full event workflow management.
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://mystery-box-seven.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Jxck007/Mystery-Box)
 
-**Real-world impact:** Used at live college events · Real-time leaderboards · Multi-team admin control panel
+**Real-world impact:** Used at live college events · Real-time leaderboards & scoring · Full admin control panel
 
 ---
 
 ### 📲 UniQScan — OD & Permission Management
-> Digitizes the paper-based OD (On-Duty) request workflow for college students. Approval automation, QR-based verification, and role-based access for staff and students.
+> Digitizes the paper-based OD (On-Duty) request workflow for college students. Mobile-first approval system with role-based access for students and staff.
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Jxck007/UniQScan)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/jeevesh56/OD-Management)
 
-**Real-world impact:** Eliminates paper OD forms · QR verification on student IDs · BE capstone project
+**Real-world impact:** Eliminates paper OD forms · Student approval workflow · Currently in development · BE capstone project
 
 ---
 
-### 🔲 QUBE — QR Code Generation Platform
-> A product-focused QR generation platform with deep customization — colors, shapes, logos, and export options. Built as a standalone utility application.
+### 🔲 QUBE — Customizable QR Code Generator
+> A product-focused QR generation platform with deep customization — colors, shapes, logos, and export options. Frontend-only, no backend required.
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Real-world impact:** Fully customizable QR output · Logo embedding · Batch export support
+**Product focus:** Highly customizable QR output · Local history via browser storage · Zero-backend utility application
 
 ---
 
@@ -109,10 +113,10 @@
 |---------|-------|-------------|
 | 🍔 RIT GrubPoint | Flutter · Firebase · Dart | Food ordering app with auth, wallet & real-time order tracking for RIT students |
 | 📄 Flask Resume Builder | Flask · Python · HTML/CSS | Web app to generate and download professional resumes from templates |
-| 📱 Mafia | Android · Java | Multiplayer social deduction game built as a native Android app |
+| 📱 Mafia | Kotlin · Firebase · Gemini API | Mobile multiplayer Mafia game with AI integration — currently in development |
 | 🤖 Edumate | Flutter · NLP | Multilingual academic chatbot for campus & course queries |
 | ⚖️ Predictive Load Balancer | Python | Simulates and predicts system load distribution using historical metrics |
-| 🎮 Kimera (Vel Tech) | Flask · React | Event management system built for an inter-college technical symposium |
+| 🏢 Kimera Vel Tech | TypeScript · CSS | Business website for a family-owned technology company |
 
 </details>
 
@@ -125,25 +129,26 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Mobile**
+**Frameworks & Libraries**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
-**Databases**
+**Databases & Backend Services**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **DevOps & Tools**
@@ -151,8 +156,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 **Learning**
 
