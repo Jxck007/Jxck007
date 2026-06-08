@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%2C%20I'm%20Jack%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%E2%80%A2%20Flask%20%E2%80%A2%20Databases%20%E2%80%A2%20DevOps&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6AF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%90%8D;Flask+%2B+PostgreSQL+%2B+REST+APIs;Flutter+%26+Firebase+Mobile+Apps;DevOps+%26+Cloud+Automation;Code+%7C+Automate+%7C+Deploy+%7C+Repeat" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6AF7&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%90%8D;Flask+%2B+PostgreSQL+%2B+REST+APIs;Real+Products+for+Real+People;DevOps+%26+Cloud+Automation;Build+%E2%86%92+Ship+%E2%86%92+Repeat" alt="Typing SVG"/>
 
 <br/>
 
@@ -19,18 +19,102 @@
 
 ## 🧑‍💻 About Me
 
-👋 Hi, I'm **Jegadeesh Nandakumar (Jack)** — a 2nd Year CSE student from Chennai who loves building backend systems that actually work in the real world.
+👋 Hi, I'm **Jegadeesh Nandakumar (Jack)** — a 3rd Year CSE student at **Rajalakshmi Institute of Technology, Chennai** who builds backend systems and ships real products. I've built software that runs at live college events, powers a family business, and manages actual student workflows — not just side projects that sit on GitHub.
 
 | | |
 |---|---|
-| 🎓 | B.E. Computer Science & Engineering — 2nd Year |
+| 🎓 | B.E. Computer Science & Engineering — 3rd Year, RIT Chennai |
 | 📍 | Chennai, Tamil Nadu, India |
-| 💼 | Backend Developer |
-| 🔭 | Currently building **UniQScan** — my BE capstone project |
-| 🌱 | Learning Docker, CI/CD & Cloud Deployment |
+| 💼 | Backend Developer · Full-Stack when needed |
+| 🔭 | Currently building **UniQScan** — paperless OD workflow system |
+| 🌱 | Learning Docker, AWS & CI/CD pipelines |
 | ⚡ | Grinding LeetCode daily 💪 |
-| 🎯 | Goal: Land a 6+ LPA backend / cloud dev role |
-| 💡 | Fun fact: I prefer understanding how systems work over building UIs |
+| 🎯 | Goal: 6+ LPA backend / cloud dev role |
+| 💡 | I'd rather know why a system breaks than how to make it look good |
+
+---
+
+## 🚀 Featured Projects
+
+> Things I've built that actually got used.
+
+---
+
+### 🌐 ZYPHORIA'26 — Official Symposium Website
+> The live production website for RIT's annual tech symposium. Handled real event registrations with Firebase and automated data collection via Google Sheets.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+**Real-world impact:** Live symposium website · Firebase auth & registration · Google Sheets automation for event ops
+
+---
+
+### 🧾 BillEase — Bilingual Billing Platform
+> Built for my father's business. Tamil + English billing support, customer records, invoice generation — an actual replacement for manual bookkeeping.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+
+**Real-world impact:** Deployed in a live business environment · Bilingual Tamil/English UI · Replaced manual billing
+
+---
+
+### 🎮 Mystery Box — Real-Time Event Platform
+> Built to run live competitions at college events. Supports team management, live leaderboards, scoring, and admin controls — all in real time.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Real-world impact:** Used at live college events · Real-time leaderboards · Multi-team admin control panel
+
+---
+
+### 📲 UniQScan — OD & Permission Management
+> Digitizes the paper-based OD (On-Duty) request workflow for college students. Approval automation, QR-based verification, and role-based access for staff and students.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Jxck007/UniQScan)
+
+**Real-world impact:** Eliminates paper OD forms · QR verification on student IDs · BE capstone project
+
+---
+
+### 🔲 QUBE — QR Code Generation Platform
+> A product-focused QR generation platform with deep customization — colors, shapes, logos, and export options. Built as a standalone utility application.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Real-world impact:** Fully customizable QR output · Logo embedding · Batch export support
+
+---
+
+## 🧩 More Projects
+
+<details>
+<summary><b>Click to expand</b></summary>
+
+<br/>
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🍔 RIT GrubPoint | Flutter · Firebase · Dart | Food ordering app with auth, wallet & real-time order tracking for RIT students |
+| 📄 Flask Resume Builder | Flask · Python · HTML/CSS | Web app to generate and download professional resumes from templates |
+| 📱 Mafia | Android · Java | Multiplayer social deduction game built as a native Android app |
+| 🤖 Edumate | Flutter · NLP | Multilingual academic chatbot for campus & course queries |
+| ⚖️ Predictive Load Balancer | Python | Simulates and predicts system load distribution using historical metrics |
+| 🎮 Kimera (Vel Tech) | Flask · React | Event management system built for an inter-college technical symposium |
+
+</details>
 
 ---
 
@@ -41,33 +125,63 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & Mobile**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+**Learning**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
 </div>
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Feb – Mar 2026 | 🐍 Backend Python Intern | Tamizhan Skills |
+| Feb – Mar 2026 | ☁️ DevOps & Cloud Automation Intern | Tamizhan Skills |
+| Jun – Jul 2025 | ⚙️ Python Development Intern | Cognifyz Technologies |
+| Jun – Jul 2025 | 🔧 Python Developer Intern | CodSoft |
+
+---
+
+## 🏆 Achievements
+
+- 🌐 Developed and maintained the **official ZYPHORIA'26 Symposium Website** — used live at the event
+- 🧾 Built **BillEase**, a billing system deployed in an active family business environment
+- 🎮 Shipped **Mystery Box**, a real-time platform that ran live competitions at college events
+- 📱 Delivered full-stack, backend, and mobile apps across 4 internships in parallel
+- 🤖 Built a multilingual NLP-powered chatbot for campus use (Edumate)
+- ⚡ Completed **4 internships** across backend, DevOps, and Python tracks
 
 ---
 
@@ -101,66 +215,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 2026 Goals
 
-### 📱 UniQScan — BE Capstone
-> Paperless OD & permission system. Students submit requests, staff approve, verification via QR code on student IDs.
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Jxck007/UniQScan)
-
----
-
-### 🍔 RIT GrubPoint
-> Food ordering app for RIT students. Auth, wallet, table reservations & real-time order tracking.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Jxck007/RIT-GrubPoint)
-
----
-
-### 🤖 Edumate
-> Multilingual educational chatbot — instant answers to academic & campus queries, built with Flutter + NLP.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4ade80?style=flat-square)
-![Multilingual](https://img.shields.io/badge/Multilingual-f06292?style=flat-square)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Jxck007/Edumate)
-
----
-
-### 📄 Flask Resume Builder
-> Flask web app to create and download professional resumes. Pick a template, fill in your info, download as PDF.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Jxck007/flask-resume-builder)
-
----
-
-## 💼 Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| Feb – Mar 2026 | 🐍 Backend Python Intern | Tamizhan Skills |
-| Feb – Mar 2026 | ☁️ DevOps & Cloud Automation Intern | Tamizhan Skills |
-| Jun – Jul 2025 | ⚙️ Python Development Intern | Cognifyz Technologies |
-| Jun – Jul 2025 | 🔧 Python Developer Intern | CodSoft |
-
----
-
-## 🎯 2025 Goals
-
-- ✅ Sharpen backend skills — Flask, SQLAlchemy, REST APIs
-- ✅ Complete 4 internships
-- ✅ Build & deploy real-world mobile apps
-- 🔄 Finish UniQScan BE capstone project
+- ✅ Build software with real-world business and event usage
+- ✅ Complete 4 internships across backend & DevOps
+- ✅ Ship full-stack, mobile, and backend applications
+- 🔄 Finish UniQScan BE capstone
 - 🔄 Master Docker & CI/CD pipelines
+- ⏳ Get hands-on with AWS (EC2, S3, Lambda)
 - ⏳ Contribute to open source
 - ⏳ Land a 6+ LPA backend / cloud dev role 🎯
 
