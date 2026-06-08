@@ -187,7 +187,6 @@
 - 🧾 Built **BillEase**, a billing system deployed in an active family business environment
 - 🎮 Shipped **Mystery Box**, a real-time platform that ran live competitions at college events
 - 📱 Delivered full-stack, backend, and mobile apps across 4 internships in parallel
-- 🤖 Built a multilingual NLP-powered chatbot for campus use (Edumate)
 - ⚡ Completed **4 internships** across backend, DevOps, and Python tracks
 
 ---
