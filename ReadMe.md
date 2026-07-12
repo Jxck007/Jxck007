@@ -1,100 +1,78 @@
 <div align="center">
 
-<img src="./assets/jack-ascii.svg" alt="Jack's numeric ASCII portrait" width="520"/>
-
-# Jegadeesh Nandakumar
-
-### Software Engineering Student · Product Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=3rd+Year+Computer+Science+Student;Building+Practical+Web+and+Mobile+Products;Learning+Backend%2C+Cloud%2C+Docker+and+CI%2FCD;Think+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve" alt="Typing introduction"/>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C6AF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jxck007.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegadeesh-nandakumar/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-jxck007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jxck007)
-[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdnk5607@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jxck007&color=7c6af7&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Jack%20%2F%2F%20Profile&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%E2%80%A2%20Product%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Jack profile header"/>
 
 </div>
 
----
-
-## About Me
-
-I am **Jegadeesh Nandakumar (Jack)**, a third-year Computer Science and Engineering student at **Rajalakshmi Institute of Technology, Chennai**.
-
-I build practical software for real use cases, including event platforms, billing tools, workflow systems, mobile applications, and student-focused products. I use AI-assisted development to move faster, while still learning the underlying product logic, database design, deployment flow, and failure points.
+## `jack@github:~$ fetch-profile`
 
 <div align="center">
 
-|  |  |
-|:--:|:--|
-| 🎓 | B.E. Computer Science and Engineering — 3rd Year |
-| 📍 | Chennai, Tamil Nadu, India |
-| 💼 | Software Engineering Student · Product Builder |
-| 🔭 | Building **UniQScan**, a paperless OD workflow system |
-| 🌱 | Learning backend development, Docker, AWS, and CI/CD |
-| 🏆 | 2nd Prize — Unlock AI, VIT Chennai Vibrance 2026 |
+<img src="./assets/jack-terminal.svg" width="100%" alt="Jack terminal fetch profile with ASCII portrait"/>
 
 </div>
 
 ---
 
-## Featured Projects
+## 🧑‍💻 About Me
 
-### ZYPHORIA'26 — Official Symposium Website
+Hi, I'm **Jegadeesh Nandakumar (Jack)**.
 
-Official symposium platform for event information, registrations, and live event coordination.
+I am a **third-year Computer Science and Engineering student** at **Rajalakshmi Institute of Technology, Chennai**. I enjoy building practical software for real use cases—from symposium platforms and billing tools to workflow systems and event-management products.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://zyphoria.vercel.app)
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/Josewa-Aghai/ZYPHORIA)
-
-- Contributed to a production-style event website with Supabase integration.
-- Supported registrations, event information, and symposium operations.
-- Worked in a collaborative development workflow.
+I use AI-assisted tools to accelerate development and learning, while still focusing on the **workflow, product logic, database structure, deployment process, and failure points** behind what I build.
 
 ---
 
-### BillEase — Bilingual Billing Platform
+## 🚀 Featured Projects
 
-Billing and invoice platform designed for a real family-business workflow with Tamil and English support.
+### 🌐 ZYPHORIA'26 — Official Symposium Website
+
+Official symposium website built for event information, registration, and live coordination.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://zyphoria.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/Josewa-Aghai/ZYPHORIA)
+
+- Contributed to the official symposium platform.
+- Supported registrations, event information, and event operations.
+- Worked in a collaborative development environment.
+
+---
+
+### 🧾 BillEase — Bilingual Billing Platform
+
+Billing, quotation, and invoice platform designed for a real family-business workflow.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://bill-ease-gamma.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://bill-ease-gamma.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/Jxck007/BillEase)
 
-- Built bilingual billing, quotation, and invoice workflows.
-- Used Firebase for cloud-backed data handling and synchronization.
+- Added Tamil and English support.
+- Used Firebase for cloud-backed data and synchronization.
 - Focused on practical usability for non-technical users.
 
 ---
 
-### Mystery Box — Event and Game Management Platform
+### 🎮 Mystery Box — Event and Game Management Platform
 
-Live event platform for team flow, scoring, leaderboards, and organizer controls.
+Platform used during a live college event for team handling, scoring, leaderboards, and organizer workflows.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://mystery-box-seven.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://mystery-box-seven.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/Jxck007/Mystery-Box)
 
 - Served as **Assistant Coordinator** for an event with approximately **65 teams**.
-- Built and supported team management, scoring, leaderboard, and admin workflows.
+- Built and supported team flow, scoring, leaderboard, and admin features.
 - Used Supabase-backed data handling during live event operations.
 
 ---
 
-### UniQScan — OD and Permission Management
+### 📲 UniQScan — OD and Permission Workflow System
 
 Mobile-first paperless OD and permission workflow system for students and staff.
 
@@ -103,52 +81,53 @@ Mobile-first paperless OD and permission workflow system for students and staff.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/jeevesh56/OD-Management)
 
-- Contributed to a digital replacement for paper-based approval flows.
-- Worked with Flutter and Firebase for mobile application development.
+- Replaces paper-based approval flows with a digital process.
+- Uses Flutter and Firebase for mobile application development.
 - Currently under active academic and collaborative development.
 
 ---
 
-### Forge Resume — AI-Assisted Resume Builder
+### 📄 Forge Resume — AI-Assisted Resume Builder
 
-Resume-building product with guided editing, import workflows, live preview, and export support.
+Resume-building product with import, editing, guided writing, live preview, and export workflows.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://forge-resume-six.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://forge-resume-six.vercel.app/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/Jxck007/Forge-Resume)
 
 - Built resume creation, editing, preview, and export workflows.
-- Added optional AI-assisted writing and import features.
-- Focused on a transparent, student-friendly resume-building experience.
+- Added optional AI-assisted writing and import tools.
+- Focused on a transparent and student-friendly experience.
 
 ---
 
-## More Projects
+## 🧩 More Projects
 
 <details>
-<summary><b>Open project archive</b></summary>
+<summary><b>Expand project archive</b></summary>
 
 <br/>
 
 | Project | Stack | Description |
 |:--|:--|:--|
-| QUBE / QR Aura | React · TypeScript | Customizable QR generator with local history and frontend utilities |
-| RIT GrubPoint | Flutter · Firebase · Dart | Food ordering application with authentication, cart, wallet, and ordering |
-| Mafia | Kotlin · Firebase · Gemini API | Mobile Mafia game concept under development |
-| Edumate | Flutter | Educational chatbot concept for academic and campus queries |
-| Kimera Vel Tech | TypeScript · CSS | Business website for a family-owned technology company |
+| **QUBE / QR Aura** | React · TypeScript | Customizable QR generator with local history |
+| **RIT GrubPoint** | Flutter · Firebase · Dart | Student food-ordering application |
+| **Mafia** | Kotlin · Firebase · Gemini API | Mobile Mafia game under development |
+| **Kimera Vel Tech** | TypeScript · CSS | Business website |
+| **Edumate** | Flutter | Educational chatbot concept |
+| **Predictive Load Balancer** | JavaScript · Node · React · PostgreSQL | Academic full-stack simulation project |
 
 </details>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Comfortable and Hands-on
+### Comfortable / Hands-on
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -156,23 +135,16 @@ Resume-building product with guided editing, import workflows, live preview, and
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Project Exposure
+### Project Exposure / Learning Through Builds
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools and Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### Currently Learning
 
@@ -184,7 +156,7 @@ Resume-building product with guided editing, import workflows, live preview, and
 
 ---
 
-## Experience
+## 💼 Experience
 
 | Period | Role | Organization |
 |:--|:--|:--|
@@ -195,36 +167,28 @@ Resume-building product with guided editing, import workflows, live preview, and
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
-- **2nd Prize — Unlock AI**, VIT Chennai Vibrance 2026, as part of Team Jack Sparrow.
-- **Assistant Coordinator — Mystery Box**, supporting approximately 65 participating teams.
-- Contributed to the official **ZYPHORIA'26 Symposium Website**.
+- Secured **2nd Prize** in **Unlock AI** at **VIT Chennai Vibrance 2026** as part of **Team Jack Sparrow**.
+- Served as **Assistant Coordinator** for the **Mystery Box** event with approximately **65 participating teams**.
+- Contributed to the official **ZYPHORIA'26 symposium website**.
 - Built **BillEase** for a real business billing workflow.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jxck007&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=7c6af7&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="175" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jxck007&show_icons=true&theme=tokyonight&border_color=7c6af7&bg_color=0d0d1a&title_color=7c6af7&icon_color=4fc3f7&text_color=e8e8f2&rank_icon=github&include_all_commits=true&count_private=true" height="175" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jxck007&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="175" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jxck007&theme=github-dark-blue&border=30363d&background=0d1117&ring=7c6af7&fire=f85149&currStreakLabel=58a6ff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jxck007&bg_color=0d1117&color=8b949e&line=58a6ff&point=7c6af7&area=true&area_color=1f6feb&hide_border=false&custom_title=Contribution%20Activity" width="95%" alt="GitHub contribution graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jxck007&layout=compact&theme=tokyonight&border_color=7c6af7&bg_color=0d0d1a&title_color=7c6af7&text_color=e8e8f2&langs_count=8" height="175" alt="Most used languages"/>
 
 </div>
 
 ---
 
-## LeetCode Progress
+## 🧩 LeetCode Progress
 
 <div align="center">
 
@@ -234,42 +198,31 @@ Resume-building product with guided editing, import workflows, live preview, and
 
 ---
 
-## 2026 Goals
-
-- ✅ Build software used in real business, event, or student workflows.
-- ✅ Work on collaborative projects with live users and organizers.
-- 🔄 Complete UniQScan and strengthen backend fundamentals.
-- 🔄 Learn Docker, AWS, and CI/CD properly.
-- ⏳ Contribute meaningfully to open-source projects.
-- ⏳ Become internship-ready for software engineering roles.
-
----
-
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jxck007/Jxck007/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jxck007/Jxck007/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Jxck007/Jxck007/output/github-snake.svg" width="95%" alt="GitHub contribution snake"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Jxck007/Jxck007/output/github-snake.svg" width="95%"/>
 </picture>
 
 </div>
 
 ---
 
-## Connect
+## 📬 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jxck007.github.io%2Fportfolio-7C6AF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jxck007.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Gmail-jdnk5607%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdnk5607@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jegadeesh_Nandakumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegadeesh-nandakumar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c6af7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jxck007.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegadeesh-nandakumar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-jxck007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jxck007)
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdnk5607@gmail.com)
 
 <br/><br/>
 
-<sub>Built with curiosity, iteration, and a preference for practical software.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
