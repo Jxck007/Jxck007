@@ -136,10 +136,8 @@ Resume-building product with guided editing, import workflows, live preview, and
 |:--|:--|:--|
 | QUBE / QR Aura | React · TypeScript | Customizable QR generator with local history and frontend utilities |
 | RIT GrubPoint | Flutter · Firebase · Dart | Food ordering application with authentication, cart, wallet, and ordering |
-| Flask Resume Builder | Flask · Python · HTML/CSS | Resume-generation web application built while learning Flask |
 | Mafia | Kotlin · Firebase · Gemini API | Mobile Mafia game concept under development |
 | Edumate | Flutter | Educational chatbot concept for academic and campus queries |
-| Predictive Load Balancer | JavaScript · Node · React · PostgreSQL | Academic load-balancing dashboard and simulation |
 | Kimera Vel Tech | TypeScript · CSS | Business website for a family-owned technology company |
 
 </details>
