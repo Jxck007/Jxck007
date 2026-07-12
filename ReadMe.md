@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Jack%20%2F%2F%20Profile&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%E2%80%A2%20Product%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Jack profile header"/>
+<img src="./assets/jack-terminal.svg" width="100%" alt="Jack terminal profile with ASCII portrait"/>
 
-</div>
+<br/>
 
-## `jack@github:~$ fetch-profile`
-
-<div align="center">
-
-<img src="./assets/jack-terminal.svg" width="100%" alt="Jack terminal fetch profile with ASCII portrait"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C6AF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jxck007.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegadeesh-nandakumar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jxck007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jxck007)
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdnk5607@gmail.com)
 
 </div>
 
